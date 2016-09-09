@@ -4,6 +4,10 @@
 
 npm install -g karma karma-cli webpack
 
+### project dependencies
+
+npm install
+
 ### available commands
 
 * npm run test
