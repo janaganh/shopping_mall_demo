@@ -2,7 +2,7 @@
 
 class LoginController {
 
-    constructor() {
+    constructor($http) {
         'ngInject';
 
         this.name = 'login';
