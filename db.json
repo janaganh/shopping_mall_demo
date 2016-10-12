@@ -1,0 +1,15 @@
+{
+  "products": [
+				{ "id": 1, "sku": "CX01", "price":"100", "url":"/oranges", "name":"Oranges", "brand":"Wildfly" },
+				{ "id": 2, "sku": "CX01", "price":"200", "url":"/mangos",  "name":"Mangos",  "brand":"Wildfly" },
+				{ "id": 3, "sku": "CX01", "price":"300", "url":"/apples",  "name":"Apples",  "brand":"Wildfly" },
+				{ "id": 4, "sku": "CX01", "price":"400", "url":"/nananas",  "name":"Bananas", "brand":"Wildfly" },
+				{ "id": 5, "sku": "CX01", "price":"500", "url":"grapes",    "name":"Grapes",  "brand":"Wildfly" }
+  ],
+  "user": [
+    { "id": 1, "user_name": "john", "role": "customer"},
+	{ "id": 1, "user_name": "john", "role": "customer"},
+	{ "id": 1, "user_name": "john", "role": "customer"}
+  ]
+
+}
