@@ -1,4 +1,4 @@
-# ng1.5_starter
+# assignment 1/ demo shopping mall app
 
 ### global dependencies
 
